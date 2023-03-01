@@ -1,6 +1,6 @@
 # Проект "API для Yatube"
 
-Финальный проект спринта 9 учебного курса "Python Developer" Yandex.Practicum
+Финальный проект спринта 9 учебного курса "Python Developer" онлайн-курсов Yandex.Practicum
 
 Представляет собой полноценный API для социальной сети YaTube, реализованный на архитектуре REST API с использользованием библиотеки Django REST Framework.
 
